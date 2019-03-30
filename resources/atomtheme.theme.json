@@ -1,0 +1,54 @@
+{
+  "name": "atomtheme",
+  "dark": true,
+  "author": "loidsemus",
+  "editorScheme": "/atomtheme.xml",
+  "ui": {
+    "*": {
+      "background": "#21252b",
+      "separatorColor": "#181a1f",
+      "borderColor": "#181a1f"
+    },
+
+    "Borders": {
+      "color": "#181a1f",
+      "ContrastBorderColor": "#181a1f"
+    },
+
+    "Button": {
+      "startBackground": "#393e4a",
+      "endBackground": "#393e4a",
+      "default.startBackground": "#446198",
+      "default.endBackground": "#446198",
+      "startBorderColor": "#181a1f",
+      "endBorderColor": "#181a1f",
+      "default.startBorderColor": "#181a1f",
+      "default.endBorderColor": "#181a1f",
+      "shadowColor": "#00000000"
+    },
+
+    "ScrollBar": {
+      "trackColor": "#4b5362",
+      "background": "#4b5362"
+    },
+
+    "ToolWindow.Header": {
+      "inactiveBackground": "#21252b"
+    },
+
+    "Editor": {
+      "background": "#282c34",
+      "foreground": "#CCCCCC",
+      "shortcutForeground": "#D2F53C"
+    },
+
+    "EditorPane.inactiveBackground": "#000000",
+
+    "EditorTabs": {
+      "selectedForeground": "#c2c4cb",
+      "selectedBackground": "#282c34",
+      "underlineColor": "#568af2",
+      "inactiveMaskColor": "#21252bFF"
+    }
+  }
+}
