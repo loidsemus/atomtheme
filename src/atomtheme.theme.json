@@ -7,7 +7,9 @@
     "*": {
       "background": "#21252b",
       "separatorColor": "#181a1f",
-      "borderColor": "#181a1f"
+      "borderColor": "#181a1f",
+      "selectionBackground": "#4d78cc",
+      "selectionInactiveBackground": "#3a3f4b"
     },
 
     "Borders": {

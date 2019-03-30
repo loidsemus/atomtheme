@@ -12,7 +12,8 @@
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="717681" />
     <option name="SEPARATOR_ABOVE_COLOR" value="181a1f" />
     <option name="SEPARATOR_BELOW_COLOR" value="181a1f" />
-    <option name="ScrollBar.background" value="4b5362"/>
+    <option name="ScrollBar.background" value="4b5362" />
+    <option name="NOTIFICATION_BACKGROUND" value="60d57c" />
   </colors>
   <attributes>
     <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
