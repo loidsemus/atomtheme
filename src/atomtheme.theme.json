@@ -2,7 +2,7 @@
   "name": "Atom One Dark",
   "dark": true,
   "author": "loidsemus",
-  "editorScheme": "/themes/atomtheme.xml",
+  "editorScheme": "/themes/oneDarkScheme.xml",
   "ui": {
     "*": {
       "background": "#21252b",
