@@ -1,15 +1,15 @@
 <idea-plugin>
     <id>com.your.company.unique.plugin.id</id>
-    <name>Plugin display name here</name>
-    <version>1.0</version>
-    <vendor email="support@yourcompany.com" url="http://www.yourcompany.com">YourCompany</vendor>
+    <name>Atom One Dark theme</name>
+    <version>1.0.0</version>
+    <vendor email="emil.j.carlen@gmail.com" url="">loidsemus</vendor>
 
     <description>
-        A stylish theme matching the Atom editor's color theme.
+        IntelliJ theme based on Atom's One Dark theme.
     </description>
 
     <change-notes>
-        Initial release. This is the first version.
+        No change notes
     </change-notes>
 
     <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
